@@ -1,6 +1,5 @@
 ### bitbitdown here 👋
-The templeted is borrowed from xiaoman, who is the god of front end ,And his blog is here: https://juejin.cn/user/2463384809252397/posts
-mine：https://juejin.cn/user/620537392934711
+juejin：https://juejin.cn/user/620537392934711
 
 # 💡skill
 
